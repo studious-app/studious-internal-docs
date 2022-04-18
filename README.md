@@ -24,7 +24,6 @@ A list of the end goals we think is in order. We stated broadly, previously, our
 
  - Ioniță Mihail-Cătălin - ionita.catalin2000@gmail.com (ISS11)
  - Crăciun Mihai-Cosmin - craciunmihai40@gmail.com (ISS11)
- - Mocanu Răzvan - mocanurazvan123@gmail.com (SI1)
  - Popa Ștefan-Dorin - mcs.stefan99@gmail.com (ISS12)
  
  
